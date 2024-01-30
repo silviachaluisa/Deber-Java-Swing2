@@ -56,15 +56,7 @@
           <text value="Correo electronico"/>
         </properties>
       </component>
-      <component id="97aad" class="javax.swing.JTextField" binding="textField4" default-binding="true">
-        <constraints>
-          <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
-            <preferred-size width="150" height="-1"/>
-          </grid>
-        </constraints>
-        <properties/>
-      </component>
-      <component id="e7260" class="javax.swing.JTextField" binding="textField1" default-binding="true">
+      <component id="e7260" class="javax.swing.JTextField" binding="textField1">
         <constraints>
           <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
             <preferred-size width="150" height="-1"/>
@@ -90,7 +82,9 @@
       </component>
       <component id="f219" class="javax.swing.JLabel">
         <constraints>
-          <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+            <preferred-size width="118" height="31"/>
+          </grid>
         </constraints>
         <properties>
           <font name="Complex_IV50" size="16" style="1"/>
@@ -128,6 +122,14 @@
           <foreground color="-1753816"/>
           <text value="INICIAR SESION"/>
         </properties>
+      </component>
+      <component id="2cf99" class="javax.swing.JPasswordField" binding="passwordField1" default-binding="true">
+        <constraints>
+          <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="31"/>
+          </grid>
+        </constraints>
+        <properties/>
       </component>
     </children>
   </grid>

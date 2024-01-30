@@ -9,6 +9,10 @@
 4) Creacion del login correcta
    ![image](https://github.com/silviachaluisa/Deber-Java-Swing2/assets/133398724/9569fffb-85b3-4627-97fb-9f68596d40dc)
 
+5)Funcionamiento de botontes,correcto
+![image](https://github.com/silviachaluisa/Deber-Java-Swing2/assets/133398724/9aaed58a-ee3d-4bc9-a11b-e62a601e05c8)
+
+
 
 
 
